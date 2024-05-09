@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<TAPSolution Id="635935b2-639f-4dca-a5ba-56e3de383a82" Name="Test TAP" DefaultWorkflow="Main" StudioVersion="24.1.2305.0">
+<TAPSolution Id="635935b2-639f-4dca-a5ba-56e3de383a82" Name="Test TAP" DefaultWorkflow="func2" StudioVersion="24.1.2305.0">
   <Resources />
   <Settings />
 </TAPSolution>
