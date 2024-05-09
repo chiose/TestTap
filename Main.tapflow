@@ -1,0 +1,11 @@
+<RobotDefinition robotId="4" robotName="Main" editPoint="402,176" editZoom="0.707106781186548" Net.useLegacyV2RuntimeActivationPolicy="False">
+  <externalLibraries />
+  <controlIdentifiers />
+  <variables />
+  <arguments />
+  <actions>
+    <sequence id="1" name="New Sequence" positionX="73" positionY="224" startNodePosition="50,25" fromConnector="c7" toConnector="c2" startPath="">
+      <transitions />
+    </sequence>
+  </actions>
+</RobotDefinition>
